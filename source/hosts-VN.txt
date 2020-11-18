@@ -1,269 +1,267 @@
-# --- Block adsVN ---
-0.0.0.0 703531862.vws.vegacdn.vn
-0.0.0.0 ad-admin.vnay.vn
-0.0.0.0 ad.24h.com.vn
-0.0.0.0 ad.accesstrade.vn
-0.0.0.0 ad.icheck.com.vn
-0.0.0.0 ad.lapa.pub
-0.0.0.0 ad.mwork.vn
-0.0.0.0 ad.qtcs.com.vn
-0.0.0.0 ad.sunflower.vn
-0.0.0.0 ad.vkool.net
-0.0.0.0 adadmin.headlines.pw
-0.0.0.0 adc.quantrimang.com
-0.0.0.0 adchoice.com
-0.0.0.0 adclient.vietnamnetjsc.vn
-0.0.0.0 adfox.vn
-0.0.0.0 adjusts.info
-0.0.0.0 adm.phunuvagiadinh.vn
-0.0.0.0 admedia.com.vn
-0.0.0.0 admin.sothuchi.vn
-0.0.0.0 adpostback.headlines.pw
-0.0.0.0 ads-cdn.fptplay.net
-0.0.0.0 ads.baodatviet.vn
-0.0.0.0 ads.baotainguyenmoitruong.vn
-0.0.0.0 ads.bkitsoftware.com
-0.0.0.0 ads.careerbuilder.vn
-0.0.0.0 ads.fptplay.net.vn
-0.0.0.0 ads.home.vn
-0.0.0.0 ads.ictnews.vn
-0.0.0.0 ads.khoahocdoisong.vn
-0.0.0.0 ads.nghenhinvietnam.vn
-0.0.0.0 ads.phunuonline.com.vn
-0.0.0.0 ads.phunusuckhoe.vn
-0.0.0.0 ads.phunuvagiadinh.vn
-0.0.0.0 ads.thegioitiepthi.vn
-0.0.0.0 ads.thesaigontimes.vn
-0.0.0.0 ads.tiki.vn
-0.0.0.0 ads.vietbao.vn
-0.0.0.0 ads.vkool.info
-0.0.0.0 ads.xemphimso.com
-0.0.0.0 ads1.careerbuilder.vn
-0.0.0.0 adserver.lag.vn
-0.0.0.0 adserver.luzu.vn
-0.0.0.0 adsgo.nhipcaudautu.vn
-0.0.0.0 adsplus.vn
-0.0.0.0 adsv2.autodaily.vn
-0.0.0.0 adsweb.vn
-0.0.0.0 adt.com.vn
-0.0.0.0 adv.anhsangvacuocsong.vn
-0.0.0.0 adv.baotintuc.vn
-0.0.0.0 advert-admin.vnay.vn
-0.0.0.0 advertisement-nhatanh.com
-0.0.0.0 advserver.cgv.vn
-0.0.0.0 adx.baolongan.vn
-0.0.0.0 adx.edutimes.com.vn
-0.0.0.0 adx.kul.vn
-0.0.0.0 adx.xemvtv.net
-0.0.0.0 affiliate.k4.tinhte.vn
-0.0.0.0 ailamtrieuphu.com
-0.0.0.0 alivar.com.vn
-0.0.0.0 alivar.vn
-0.0.0.0 amobi.vn
-0.0.0.0 an.dongphim.net
-0.0.0.0 an.motphim.net
-0.0.0.0 an.xemvtv.net
-0.0.0.0 api.nas.nct.vn
-0.0.0.0 apia.headlines.pw
-0.0.0.0 apinas.nct.vn
-0.0.0.0 as.gamevui.com
-0.0.0.0 avoadsservices.com
-0.0.0.0 banhtv.org
-0.0.0.0 banner.5giay.vn
-0.0.0.0 banner.vietnamfinance.vn
-0.0.0.0 bgadx.com
-0.0.0.0 boxpr.aiservice.vn
-0.0.0.0 cdn-ads.thesaigontimes.vn
-0.0.0.0 cdnasset.dantri.com.vn
-0.0.0.0 chiasephim.xyz
-0.0.0.0 click-ads.saoteen.net
-0.0.0.0 clipbongda.info
-0.0.0.0 clix.vn
-0.0.0.0 core.vnecdn.com
-0.0.0.0 cpx.vnecdn.com
-0.0.0.0 crocopop.com
-0.0.0.0 delecpuzz.com
-0.0.0.0 delivery.senvangvn.com
-0.0.0.0 delivery.vtc.vn
-0.0.0.0 delivery.vtcnew.com.vn
-0.0.0.0 deltago.com
-0.0.0.0 demopage.me
-0.0.0.0 dt.vnecdn.com
-0.0.0.0 financial-agent.headlines.pw
-0.0.0.0 fptad.com
-0.0.0.0 genmonet.com
-0.0.0.0 ghimc.vn
-0.0.0.0 go.vnecdn.com
-0.0.0.0 imgcdnbet.com
-0.0.0.0 interactive.tinnhanhchungkhoan.vn
-0.0.0.0 landingpagelagi.vn
-0.0.0.0 lottery.headlines.pw
-0.0.0.0 lottery.vntoday.news
-0.0.0.0 marketing.hub-js.com
-0.0.0.0 mega1.yeah1.com
-0.0.0.0 microad.vn
-0.0.0.0 mobileads.dieuviet.com
-0.0.0.0 myad.vn
-0.0.0.0 ng-vn-notice.gameitop.com
-0.0.0.0 offerwall.headlines.pw
-0.0.0.0 phimmedia03.com
-0.0.0.0 polyad.galaxypub.vn
-0.0.0.0 qc.designervn.net
-0.0.0.0 qcv5.blogtruyen.vn
-0.0.0.0 quangcao.24h.com.vn
-0.0.0.0 quangcao.baovannghe.com.vn
-0.0.0.0 quangcao.thanhnien.vn
-0.0.0.0 quangcao.tuoitre.vn
-0.0.0.0 quangcao247.com.vn
-0.0.0.0 r.tinmoi24.vn
-0.0.0.0 realclick.vn
-0.0.0.0 s.giaoducthoidai.vn
-0.0.0.0 sbbanner.com
-0.0.0.0 sda.tamdiem247.com
-0.0.0.0 serving-ad.tv24.vn
-0.0.0.0 shop.vnay.vn
-0.0.0.0 static.mvot.vn
-0.0.0.0 stc-nas.nixcdn.com
-0.0.0.0 stc.nas.nixcdn.com
-0.0.0.0 sv-api-lottery.headlines.pw
-0.0.0.0 sv-static-lottery.headlines.pw
-0.0.0.0 sv-static1-lottery.headlines.pw
-0.0.0.0 toppage.vn
-0.0.0.0 trenddigital.vn
-0.0.0.0 truoctran.com
-0.0.0.0 tvnotice.kg.garena.vn
-0.0.0.0 upfile16.mediaphim.com
-0.0.0.0 user.headlines.pw
-0.0.0.0 vietbuzzad.com
-0.0.0.0 vietdorje.com
-0.0.0.0 vinaads.vn
-0.0.0.0 vnd247.vn
-0.0.0.0 vtvcab.xyz
-0.0.0.0 widget.headlines.pw
-0.0.0.0 www.adsweb.vn
-0.0.0.0 www.adt.com.vn
-0.0.0.0 www.advertisement-nhatanh.com
-0.0.0.0 www.alivar.vn
-0.0.0.0 www.avoadsservices.com
-0.0.0.0 www.banhtv.org
-0.0.0.0 www.chiasephim.xyz
-0.0.0.0 www.delecpuzz.com
-0.0.0.0 www.landingpagelagi.vn
-0.0.0.0 www.microad.vn
-0.0.0.0 www.realclick.vn
-0.0.0.0 www.sbbanner.com
-0.0.0.0 www.vietbuzzad.com
-0.0.0.0 www.vietdorje.com
-0.0.0.0 www.vtvcab.xyz
+703531862.vws.vegacdn.vn
+ad-admin.vnay.vn
+ad.24h.com.vn
+ad.accesstrade.vn
+ad.icheck.com.vn
+ad.lapa.pub
+ad.mwork.vn
+ad.qtcs.com.vn
+ad.sunflower.vn
+ad.vkool.net
+adadmin.headlines.pw
+adc.quantrimang.com
+adchoice.com
+adclient.vietnamnetjsc.vn
+adfox.vn
+adjusts.info
+adm.phunuvagiadinh.vn
+admedia.com.vn
+admin.sothuchi.vn
+adpostback.headlines.pw
+ads-cdn.fptplay.net
+ads.baodatviet.vn
+ads.baotainguyenmoitruong.vn
+ads.bkitsoftware.com
+ads.careerbuilder.vn
+ads.fptplay.net.vn
+ads.home.vn
+ads.ictnews.vn
+ads.khoahocdoisong.vn
+ads.nghenhinvietnam.vn
+ads.phunuonline.com.vn
+ads.phunusuckhoe.vn
+ads.phunuvagiadinh.vn
+ads.thegioitiepthi.vn
+ads.thesaigontimes.vn
+ads.tiki.vn
+ads.vietbao.vn
+ads.vkool.info
+ads.xemphimso.com
+ads1.careerbuilder.vn
+adserver.lag.vn
+adserver.luzu.vn
+adsgo.nhipcaudautu.vn
+adsplus.vn
+adsv2.autodaily.vn
+adsweb.vn
+adt.com.vn
+adv.anhsangvacuocsong.vn
+adv.baotintuc.vn
+advert-admin.vnay.vn
+advertisement-nhatanh.com
+advserver.cgv.vn
+adx.baolongan.vn
+adx.edutimes.com.vn
+adx.kul.vn
+adx.xemvtv.net
+affiliate.k4.tinhte.vn
+ailamtrieuphu.com
+alivar.com.vn
+alivar.vn
+amobi.vn
+an.dongphim.net
+an.motphim.net
+an.xemvtv.net
+api.nas.nct.vn
+apia.headlines.pw
+apinas.nct.vn
+as.gamevui.com
+avoadsservices.com
+banhtv.org
+banner.5giay.vn
+banner.vietnamfinance.vn
+bgadx.com
+boxpr.aiservice.vn
+cdn-ads.thesaigontimes.vn
+cdnasset.dantri.com.vn
+chiasephim.xyz
+click-ads.saoteen.net
+clipbongda.info
+clix.vn
+core.vnecdn.com
+cpx.vnecdn.com
+crocopop.com
+delecpuzz.com
+delivery.senvangvn.com
+delivery.vtc.vn
+delivery.vtcnew.com.vn
+deltago.com
+demopage.me
+dt.vnecdn.com
+financial-agent.headlines.pw
+fptad.com
+genmonet.com
+ghimc.vn
+go.vnecdn.com
+imgcdnbet.com
+interactive.tinnhanhchungkhoan.vn
+landingpagelagi.vn
+lottery.headlines.pw
+lottery.vntoday.news
+marketing.hub-js.com
+mega1.yeah1.com
+microad.vn
+mobileads.dieuviet.com
+myad.vn
+ng-vn-notice.gameitop.com
+offerwall.headlines.pw
+phimmedia03.com
+polyad.galaxypub.vn
+qc.designervn.net
+qcv5.blogtruyen.vn
+quangcao.24h.com.vn
+quangcao.baovannghe.com.vn
+quangcao.thanhnien.vn
+quangcao.tuoitre.vn
+quangcao247.com.vn
+r.tinmoi24.vn
+realclick.vn
+s.giaoducthoidai.vn
+sbbanner.com
+sda.tamdiem247.com
+serving-ad.tv24.vn
+shop.vnay.vn
+static.mvot.vn
+stc-nas.nixcdn.com
+stc.nas.nixcdn.com
+sv-api-lottery.headlines.pw
+sv-static-lottery.headlines.pw
+sv-static1-lottery.headlines.pw
+toppage.vn
+trenddigital.vn
+truoctran.com
+tvnotice.kg.garena.vn
+upfile16.mediaphim.com
+user.headlines.pw
+vietbuzzad.com
+vietdorje.com
+vinaads.vn
+vnd247.vn
+vtvcab.xyz
+widget.headlines.pw
+www.adsweb.vn
+www.adt.com.vn
+www.advertisement-nhatanh.com
+www.alivar.vn
+www.avoadsservices.com
+www.banhtv.org
+www.chiasephim.xyz
+www.delecpuzz.com
+www.landingpagelagi.vn
+www.microad.vn
+www.realclick.vn
+www.sbbanner.com
+www.vietbuzzad.com
+www.vietdorje.com
+www.vtvcab.xyz
 # --- Block trackingVN ---
-0.0.0.0 addlog.thuvienphapluat.vn
-0.0.0.0 admin.phunusuckhoe.vn
-0.0.0.0 alexajstrack.com
-0.0.0.0 analytics.bkav.com
-0.0.0.0 analytics.easyvideo.vn
-0.0.0.0 analytics.explus.vn
-0.0.0.0 analytics.hub-js.com
-0.0.0.0 analytics.sohatv.vn
-0.0.0.0 analytics.thethao247.org
-0.0.0.0 analytics.tiki.vn
-0.0.0.0 analytics.videocloud.top
-0.0.0.0 analytics.vietnamfinance.vn
-0.0.0.0 analytics.vnreview.vn
-0.0.0.0 apl.headlines.pw
-0.0.0.0 deqik.com
-0.0.0.0 elogs.vnexpress.net
-0.0.0.0 event.headlines.pw
-0.0.0.0 event.vntoday.news
-0.0.0.0 fa.fpt.shop
-0.0.0.0 follow.vnay.vn
-0.0.0.0 hit.123c.vn
-0.0.0.0 invite.baomoi.com
-0.0.0.0 la.vietid.net
-0.0.0.0 lg.lotus.vn
-0.0.0.0 log.anninhthudo.vn
-0.0.0.0 log.baodatviet.vn
-0.0.0.0 log.baodauthau.vn
-0.0.0.0 log.baomoi.com
-0.0.0.0 log.baonghean.vn
-0.0.0.0 log.baophapluat.vn
-0.0.0.0 log.batdongsan.com.vn
-0.0.0.0 log.daidoanket.vn
-0.0.0.0 log.dantocmiennui.vn
-0.0.0.0 log.doanhnhan.vn
-0.0.0.0 log.giaoduc.net.vn
-0.0.0.0 log.infonet.vn
-0.0.0.0 log.kienthuc.net.vn
-0.0.0.0 log.ngaynay.vn
-0.0.0.0 log.nhipcaudautu.vn
-0.0.0.0 log.sggp.org.vn
-0.0.0.0 log.tapchitaichinh.vn
-0.0.0.0 log.thanhnien.vn
-0.0.0.0 log.tienphong.vn
-0.0.0.0 log.tinnhanhchungkhoan.vn
-0.0.0.0 log.vietnamdaily.net.vn
-0.0.0.0 log.vietnamfinance.vn
-0.0.0.0 log.vietnamplus.vn
-0.0.0.0 log.viettimes.vn
-0.0.0.0 log.vnay.vn
-0.0.0.0 log.vntoday.news
-0.0.0.0 log.vov.vn
-0.0.0.0 log4x.nixcdn.com
-0.0.0.0 logg4u.cnnd.vn
-0.0.0.0 logging.galaxypub.vn
-0.0.0.0 logs.giaoducthoidai.vn
-0.0.0.0 logs.thethaovanhoa.vn
-0.0.0.0 logs1.reatimes.vn
-0.0.0.0 logsbin.dantri.com.vn
-0.0.0.0 logscafef.channelvn.net
-0.0.0.0 nstat.headlines.pw
-0.0.0.0 report.vnay.vn
-0.0.0.0 s.baomoi.xdn.vn
-0.0.0.0 s.kenh14.vn
-0.0.0.0 s.soha.vn
-0.0.0.0 s.tuoitre.vn
-0.0.0.0 sharefb.cnnd.vn
-0.0.0.0 stat.headlines.pw
-0.0.0.0 staticad.thethao247.vn
-0.0.0.0 statistics.vov.vn
-0.0.0.0 stats.123c.vn
-0.0.0.0 stats.bizweb.vn
-0.0.0.0 stats.dongphim.net
-0.0.0.0 stats.petrotimes.vn
-0.0.0.0 stats.tamdiem247.com
-0.0.0.0 stats.vietnammoi.vn
-0.0.0.0 sv-api-event.headlines.pw
-0.0.0.0 thongke.24h.com.vn
-0.0.0.0 thongke.baotintuc.vn
-0.0.0.0 thongke99.baogiaothong.vn
-0.0.0.0 track-srv.vietnamnet.vn
-0.0.0.0 track.accesstrade.vn
-0.0.0.0 track.icheck.com.vn
-0.0.0.0 track.lapa.pub
-0.0.0.0 track.pregmomvietnam.com
-0.0.0.0 track.sendo.vn
-0.0.0.0 tracker.bongngo.store
-0.0.0.0 tracker.phunuvagiadinh.vn
-0.0.0.0 tracker.tintucvietnam.vn
-0.0.0.0 tracking.appwifi.com
-0.0.0.0 tracking.dantri.com.vn
-0.0.0.0 tracking.vht.com.vn
-0.0.0.0 tracking.vietbao.vn
-0.0.0.0 tracking.vtc.vn
-0.0.0.0 tracking.vtcnew.com.vn
-0.0.0.0 trackingapi.foody.vn
-0.0.0.0 trackity.tiki.vn
-0.0.0.0 trending.vn
-0.0.0.0 trk.123c.vn
-0.0.0.0 trk.staging.123c.vn
-0.0.0.0 userstats.shopee.vn
-0.0.0.0 vn.alexajstrack.com
-0.0.0.0 vtrack.vht.com.vn
-0.0.0.0 widget.sbz.vn
-0.0.0.0 widget.subiz.xyz
-# --- Block scamVN ---
-0.0.0.0 celerantatters.com
-0.0.0.0 hashearog.com
-0.0.0.0 rituationscardb.info
-0.0.0.0 sacchaeleduk.com
-0.0.0.0 smilitygorb.club
-0.0.0.0 ucesreferre.club
+addlog.thuvienphapluat.vn
+admin.phunusuckhoe.vn
+alexajstrack.com
+analytics.bkav.com
+analytics.easyvideo.vn
+analytics.explus.vn
+analytics.hub-js.com
+analytics.sohatv.vn
+analytics.thethao247.org
+analytics.tiki.vn
+analytics.videocloud.top
+analytics.vietnamfinance.vn
+analytics.vnreview.vn
+apl.headlines.pw
+deqik.com
+elogs.vnexpress.net
+event.headlines.pw
+event.vntoday.news
+fa.fpt.shop
+follow.vnay.vn
+hit.123c.vn
+invite.baomoi.com
+la.vietid.net
+lg.lotus.vn
+log.anninhthudo.vn
+log.baodatviet.vn
+log.baodauthau.vn
+log.baomoi.com
+log.baonghean.vn
+log.baophapluat.vn
+log.batdongsan.com.vn
+log.daidoanket.vn
+log.dantocmiennui.vn
+log.doanhnhan.vn
+log.giaoduc.net.vn
+log.infonet.vn
+log.kienthuc.net.vn
+log.ngaynay.vn
+log.nhipcaudautu.vn
+log.sggp.org.vn
+log.tapchitaichinh.vn
+log.thanhnien.vn
+log.tienphong.vn
+log.tinnhanhchungkhoan.vn
+log.vietnamdaily.net.vn
+log.vietnamfinance.vn
+log.vietnamplus.vn
+log.viettimes.vn
+log.vnay.vn
+log.vntoday.news
+log.vov.vn
+log4x.nixcdn.com
+logg4u.cnnd.vn
+logging.galaxypub.vn
+logs.giaoducthoidai.vn
+logs.thethaovanhoa.vn
+logs1.reatimes.vn
+logsbin.dantri.com.vn
+logscafef.channelvn.net
+nstat.headlines.pw
+report.vnay.vn
+s.baomoi.xdn.vn
+s.kenh14.vn
+s.soha.vn
+s.tuoitre.vn
+sharefb.cnnd.vn
+stat.headlines.pw
+staticad.thethao247.vn
+statistics.vov.vn
+stats.123c.vn
+stats.bizweb.vn
+stats.dongphim.net
+stats.petrotimes.vn
+stats.tamdiem247.com
+stats.vietnammoi.vn
+sv-api-event.headlines.pw
+thongke.24h.com.vn
+thongke.baotintuc.vn
+thongke99.baogiaothong.vn
+track-srv.vietnamnet.vn
+track.accesstrade.vn
+track.icheck.com.vn
+track.lapa.pub
+track.pregmomvietnam.com
+track.sendo.vn
+tracker.bongngo.store
+tracker.phunuvagiadinh.vn
+tracker.tintucvietnam.vn
+tracking.appwifi.com
+tracking.dantri.com.vn
+tracking.vht.com.vn
+tracking.vietbao.vn
+tracking.vtc.vn
+tracking.vtcnew.com.vn
+trackingapi.foody.vn
+trackity.tiki.vn
+trending.vn
+trk.123c.vn
+trk.staging.123c.vn
+userstats.shopee.vn
+vn.alexajstrack.com
+vtrack.vht.com.vn
+widget.sbz.vn
+widget.subiz.xyz
+celerantatters.com
+hashearog.com
+rituationscardb.info
+sacchaeleduk.com
+smilitygorb.club
+ucesreferre.club
